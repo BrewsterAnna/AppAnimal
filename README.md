@@ -1,1 +1,1 @@
-# AppAnimal
+Aplicativo para cadastrar animais
